@@ -6,7 +6,7 @@
 /*   By: bunxumal <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/19 11:31:59 by bunxumal          #+#    #+#             */
-/*   Updated: 2020/06/19 11:59:28 by bunxumal         ###   ########.fr       */
+/*   Updated: 2020/06/19 12:03:59 by bunxumal         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,5 +28,5 @@ void ft_print_alphabet(void)
 int main (void)
 {
 	ft_print_alphabet();
-	return (o);
+	return (0);
 }
